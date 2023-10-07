@@ -11,13 +11,11 @@ A Face Mask Detection system constructed using OpenCV and TensorFlow, employing 
 - **Dataset:** The dataset consists of around 4k images belonging to two classes: with mask and without mask. Real images of faces wearing masks were collected from Kaggle competitions and RMFD dataset [1].
 
 - **Frameworks and Libraries Used:**
-  - OpenCV
-  - TensorFlow (utilizing Keras)
-  - Caffe (for face detection)
-  - Numpy
   - Matplotlib
+  - Numpy
+  - OpenCV
   - Scikit-learn
- 
+  - TensorFlow (with Keras and MobileNetV2) 
     
 ## License
 
